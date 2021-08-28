@@ -1,1 +1,1 @@
-playsound minecraft:block.snow.break player @a[tag=!pbbs.cs.mute,distance=..12] ~ ~ ~ 1 0.7
+playsound minecraft:craftsound.snow.1 player @a[tag=!pbbs.cs.mute,distance=..12] ~ ~ ~ 1 0.7

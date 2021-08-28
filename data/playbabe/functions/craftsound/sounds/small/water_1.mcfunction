@@ -1,1 +1,1 @@
-playsound minecraft:item.bucket.fill player @a[tag=!pbbs.cs.mute,distance=..12] ~ ~ ~ 1 1.1
+playsound minecraft:craftsound.water.1 player @a[tag=!pbbs.cs.mute,distance=..12] ~ ~ ~ 1 1.1
